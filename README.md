@@ -6,7 +6,7 @@
 4.扩展安装完毕后Code右下角会出现Go Live字样。<br>
 5.在index.html文件页面点击Go Live打开即可。<br>
 <ol type="1">
-  <li>下载此文件，并解压。</li>
+<li>下载此文件，并解压。</li>
   <li>使用Visual Studio Code打开文件夹。</li>
   <li>在Visual Studio Code里面下载扩展“Live Server”。（此插件是为网页开一个端口。）</li>
 </ol>
