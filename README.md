@@ -1,7 +1,7 @@
 # Window-interconnection
 <p>浏览器每个窗口生成一个3D模型，每个模型可以联系。</p>
 <h3>效果图如下👇</h3>
-![image](1.png);
+[Image]!(1.png);
 <h1>使用说明</h1>
 <ol type="1">
   <li>下载此文件，并解压。</li>
