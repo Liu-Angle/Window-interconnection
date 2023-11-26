@@ -4,7 +4,7 @@
 ![image](https://github.com/Liu-Angle/Window-interconnection/blob/LZJ/效果图.png)
 
 <h1>使用说明</h1>
-1.下载此文件，并解压。
+1.下载此文件，并解压。<br>
 2.使用Visual Studio Code打开文件夹。
 3.在Visual Studio Code里面下载扩展“Live Server”。（此插件是为网页开一个端口。）
 4.扩展安装完毕后Code右下角会出现Go Live字样。
