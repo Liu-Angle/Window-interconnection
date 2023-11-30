@@ -1,7 +1,6 @@
 # Window-interconnection
 <p>浏览器每个窗口生成一个3D模型，每个窗口和模型可以联系和访问。</p>
 <h3>效果图如下👇</h3>
-![image](https://github.com/Liu-Angle/Window-interconnection/blob/LZJ/效果图.png)
 <img src="https://github.com/Liu-Angle/Window-interconnection/blob/LZJ/效果图.png">
 <h1>使用说明</h1>
 <ol type="1">
